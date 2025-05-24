@@ -101,14 +101,6 @@
 <!-- Animated SVG Contribution Calendar -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
 
-```
-    ┌─ COMMIT STREAK COUNTER ─┐
-    │  🔥 Current: 15 days    │
-    │  🏆 Record:  42 days    │
-    │  🎯 Goal:    100 days   │
-    └─────────────────────────┘
-```
-
 </div>
 
 ## 🎯 Current Mission Objectives
