@@ -162,8 +162,6 @@
 ```
 <div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
 
-<img src="https://komarev.com/ghpvc/?username=KyouGenSo&style=flat-square&color=black&label=PLAYERS+VISITED" alt="Profile Views" />
-
 ![Profile Last Updated](https://img.shields.io/badge/Last%20Updated-2025--05--24-333333?style=flat-square&labelColor=000000)
 
 </div>
