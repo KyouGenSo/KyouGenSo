@@ -61,7 +61,7 @@
 ### 🎯 Core Player Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KyouGenSo&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true&include_all_commits=true)
 
-### 🔥 Legendary Coding Streak
+### 🔥 Coding Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KyouGenSo&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff)
 
 ### 💻 Programming Language Mastery
