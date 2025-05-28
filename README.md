@@ -13,47 +13,6 @@
 
 </div>
 
-## 🎮 Player Character Sheet
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────┐
-│ 👤 Class: Game Programmer              │
-│ 📊 Level: ██████░░░░░░░░ 40%           │
-│ ⚔️ Primary Skills: C/C++, DirectX      │
-│ 🎯 Current Quest: Building TakoEngine  │
-│ 🟢 Status: Online & Coding             │
-│ 🏆 Achievements Unlocked: 15/30        │
-└─────────────────────────────────────────┘
-```
-
-</div>
-
-## ⚔️ Tech Arsenal & Equipment
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black)
-![DirectX](https://img.shields.io/badge/DirectX-000000?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=black)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=black)
-
-</div>
-
-## 🏆 Featured Boss Fight
-
-### 🐙 [TakoEngine](https://github.com/KyouGenSo/TakoEngine)
-```
-╭─────────────────────────────────────────────╮
-│ 🎯 Quest: Custom DirectX 3D Game Engine    │
-│ 📊 Progress: [█████░░░░░] 40% Complete     │
-│ ⚡ Difficulty: ★★★★☆ (Expert Level)    │
-│ 🛠️ Tech Stack: C++, DirectX 11/12          │
-│ 🎮 Status: Active Development              │
-╰─────────────────────────────────────────────╯
-```
-
 ##
 
 <div align="center">
@@ -73,6 +32,47 @@
 </div>
 
 ##
+
+## ⚔️ Tech Arsenal & Equipment
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black)
+![DirectX](https://img.shields.io/badge/DirectX-000000?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=black)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=black)
+
+</div>
+
+## 🎮 Player Character Sheet
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────┐
+│ 👤 Class: Game Programmer              │
+│ 📊 Level: ██████░░░░░░░░ 40%           │
+│ ⚔️ Primary Skills: C/C++, DirectX      │
+│ 🎯 Current Quest: Building TakoEngine  │
+│ 🟢 Status: Online & Coding             │
+│ 🏆 Achievements Unlocked: 15/30        │
+└─────────────────────────────────────────┘
+```
+
+</div>
+
+## 🏆 Featured Boss Fight
+
+### 🐙 [TakoEngine](https://github.com/KyouGenSo/TakoEngine)
+```
+╭─────────────────────────────────────────────╮
+│ 🎯 Quest: Custom DirectX 3D Game Engine    │
+│ 📊 Progress: [█████░░░░░] 40% Complete     │
+│ ⚡ Difficulty: ★★★★☆ (Expert Level)    │
+│ 🛠️ Tech Stack: C++, DirectX 11/12          │
+│ 🎮 Status: Active Development              │
+╰─────────────────────────────────────────────╯
+```
 
 <div align="center">
 
