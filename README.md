@@ -79,19 +79,6 @@
 ### 🏅 Achievement Collection
 ![Trophies](https://github-profile-trophy.vercel.app/?username=KyouGenSo&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4)
 
-### 🕒 Daily Grind Schedule
-```
-┌─ This Week's Battle Log ────────────────┐
-│ 🌅 Monday    ████████████░ 75% ⚔️      │
-│ 🌄 Tuesday   ██████████░░░ 60% 🛡️      │
-│ 🌇 Wednesday ████████████░ 80% ⚡      │
-│ 🌆 Thursday  ██████░░░░░░░ 45% 🔧      │
-│ 🌃 Friday    ████████████░ 85% 🚀      │
-│ 🎮 Saturday  ████████░░░░░ 55% 🎯      │
-│ 😴 Sunday    ██████░░░░░░░ 40% 💤      │
-└─────────────────────────────────────────┘
-```
-
 </div>
 
 <div align="center">
@@ -100,24 +87,6 @@
 
 <!-- Animated SVG Contribution Calendar -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
-
-</div>
-
-## 🎯 Current Mission Objectives
-
-<div align="center">
-
-```
-┌─ 🎮 Main Campaign ───────────────────────┐
-│ 🐙 Developing TakoEngine (DirectX 3D)    │
-│ ⚡ Implementing advanced rendering       │
-　　　　　　│ 🚀 Optimizing engine performance         │           
-├─ 🎲 Side Quests ─────────────────────────┤
-│ 📚 Learning modern C++20 features        │
-│ 🔍 Exploring ray tracing techniques      │
-　　│ 🌐 Contributing to game dev community    │    
-└─ 🎮──────────────────────────────────────┘
-```
 
 </div>
 
