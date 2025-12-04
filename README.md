@@ -86,9 +86,3 @@
     ╰─────────────────────────────────────╯
 ```
 </div>
-
-<div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
-
-![Profile Last Updated](https://img.shields.io/badge/Last%20Updated-2025--05--24-333333?style=flat-square&labelColor=000000)
-
-</div>
