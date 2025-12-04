@@ -44,23 +44,6 @@
 
 </div>
 
-## 🎮 Player Character Sheet
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────┐
-│ 👤 Class: Game Programmer              │
-│ 📊 Level: ██████░░░░░░░░ 40%           │
-│ ⚔️ Primary Skills: C/C++, DirectX      │
-│ 🎯 Current Quest: Building TakoEngine  │
-│ 🟢 Status: Online & Coding             │
-│ 🏆 Achievements Unlocked: 15/30        │
-└─────────────────────────────────────────┘
-```
-
-</div>
-
 ## 🏆 Featured Boss Fight
 
 ### 🐙 [TakoEngine](https://github.com/KyouGenSo/TakoEngine)
@@ -104,26 +87,6 @@
 ```
 </div>
 
-## 🎮 End Game Credits
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────┐
-│          🎉 LEVEL COMPLETE! 🎉         │
-│                                         │
-│      Thanks for visiting my profile!    │
-│                                         │
-│           Continue? [Y/N]               │
-│                                         │
-│    ⭐ Star my repos to save progress    │
-│    👥 Follow for daily XP updates       │
-│    🎯 Fork to join the adventure        │
-│                                         │
-│      🏆 Achievement Unlocked! 🏆       │
-│      "Profile Explorer" (+100 XP)       │
-└─────────────────────────────────────────┘
-```
 <div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
 
 ![Profile Last Updated](https://img.shields.io/badge/Last%20Updated-2025--05--24-333333?style=flat-square&labelColor=000000)
